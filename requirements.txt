@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+scikit-learn
+pytest
+# 선택: 분류 방식 비교(compare.py)에서 SBERT를 쓰려면
+# sentence-transformers
